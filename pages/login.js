@@ -1,6 +1,9 @@
+
+
 export default function login() {
     return (
         <div>
+
             <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#loginModal">
                 로그인
             </button>
